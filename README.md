@@ -1,0 +1,2 @@
+# swichyOmegaConfigBackup
+swichyOmega  configuration backup
